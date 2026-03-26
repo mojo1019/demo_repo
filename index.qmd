@@ -1,6 +1,7 @@
 ---
 title: "Code Demo"
 format: html
+embed-resources: TRUE
 ---
 
 I wrote this bih for data
